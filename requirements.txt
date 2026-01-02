@@ -1,0 +1,23 @@
+# Real-Time AI Sentiment Monitor - Dependencies
+# =============================================
+
+# Core Framework
+streamlit>=1.28.0
+
+# Deep Learning
+# For CPU-only installation, use:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# For GPU/CUDA, use standard torch installation
+torch>=2.0.0
+transformers>=4.35.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Sources
+feedparser>=6.0.0
+yfinance>=0.2.30
+
+# Visualization
+plotly>=5.18.0
