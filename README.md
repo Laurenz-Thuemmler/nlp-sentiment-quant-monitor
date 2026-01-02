@@ -35,4 +35,4 @@ graph TD
     F -->|Logits| G[Softmax Layer]
     G -->|Sentiment Score| H[Signal Generator]
     H --> I[Streamlit Dashboard]
-    D --> I# nlp-sentiment-quant-monitor
+    D --> I
