@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This project implements an **institutional-grade event monitoring system** that leverages Transfer Learning (BERT) to quantify market sentiment from unstructured financial news. By integrating real-time RSS ingestion with the **FinBERT** Large Language Model, the engine extracts alpha signals and correlates them with high-frequency price movements.
+This project implements an institutional-grade event monitoring system that leverages Transfer Learning (BERT) to quantify market sentiment from unstructured financial news. By integrating real-time RSS ingestion with the FinBERT Large Language Model, the engine extracts alpha signals and correlates them with high-frequency price movements.
 
 The system processes financial headlines through a pre-trained transformer architecture, mapping linguistic features to sentiment classifications that can inform systematic trading strategies.
 
